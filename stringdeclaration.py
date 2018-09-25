@@ -1,0 +1,10 @@
+x=" iam vamshi .."
+print(x)
+print(x[1])
+print(x[3:8])
+print(len(x))
+print(x.lower())
+print(x.upper())
+print(x.replace("a","h"))
+print(x.strip())
+print(x.split(","))

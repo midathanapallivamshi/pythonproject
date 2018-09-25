@@ -1,0 +1,10 @@
+print("convert to int to float")
+a=int(10)
+b=int(20.5)
+c=float(30)
+d=str(11)
+
+print(a)
+print(b)
+print(c)
+print(d)
